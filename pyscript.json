@@ -1,0 +1,14 @@
+{
+  "interpreter": "0.23.4",
+  "packages": ["plotly"],
+  "files": {
+    "/data/RPI_map_data_Nodes.csv": "./data/RPI_map_data_Nodes.csv",
+    "/data/RPI_map_data_Edges.csv": "./data/RPI_map_data_Edges.csv",
+    "/resources/RPI_campus_map_2024_small.png": "./resources/RPI_campus_map_2024_small.png",
+    "/ADT/Graph.py": "./ADT/Graph.py",
+    "/MVC/CampusParser.py": "./MVC/CampusParser.py",
+    "/MVC/Model.py": "./MVC/Model.py",
+    "/MVC/View.py": "./MVC/View.py",
+    "/MVC/Controller.py": "./MVC/Controller.py"
+  }
+}
