@@ -21,7 +21,7 @@ class Model:
 
         # create graph
         CampusParser.readNodes(
-            "data/RPI_map_data_Nodes.csv",
+            "./data/RPI_map_data_Nodes.csv",
             self._x,
             self._y,
             self._BuildingToID,
@@ -29,7 +29,7 @@ class Model:
             self._campus_graph,
         )
         CampusParser.readEdges(
-            "data/RPI_map_data_Edges.csv",
+            "./data/RPI_map_data_Edges.csv",
             self._x,
             self._y,
             self._BuildingToID,
