@@ -1,6 +1,6 @@
-# RPI Campus Map
-### This is a continuation of a project in the RPI's principles of software where I:
-- Translated the original Java application into Python
+# RPI Campus Map (On Pause)
+### This is project where I:
+- Designed my own version of generics in Python
 - Created a Python generic graph ADT
 - Used model-view-controller software design pattern
 
