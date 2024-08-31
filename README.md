@@ -1,4 +1,4 @@
-# RPI Campus Map (On Pause)
+# RPI Campus Map (Paused)
 ### This is project where I:
 - Designed my own version of generics in Python
 - Created a Python generic graph ADT
